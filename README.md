@@ -165,4 +165,4 @@ a1.set_title('Drawdown')
 a1.fill_between(drawdown.index, drawdown, alpha=1)
 f.tight_layout()
 ```
-!['Estratégia']()
+!['Estratégia'](https://github.com/Jhonattanln/Bayesian_Optimization/blob/main/estrategia.png?raw=true)
